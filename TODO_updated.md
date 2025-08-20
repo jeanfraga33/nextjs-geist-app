@@ -77,11 +77,8 @@
 - Gerenciamento de usuários
 
 🔄 **Próximos Passos:**
-1. Criar páginas de equipamentos
-2. Criar páginas de ordens de serviço
-3. Implementar sistema de impressão
-4. Criar relatórios
-5. Testes finais
+1. Implementar sistema de impressão
+2. Testes finais
 
 ## 📝 Notas Técnicas
 - ✅ Design moderno preto/branco implementado
